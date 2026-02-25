@@ -1,4 +1,3 @@
-console.log("heelo world");
-console.log("hello jeevan");
+console.log("heelo");
 console.log("Welcome to salesforce");
-console.log("thanku for choosing");
+
